@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome, {{name}}",
+  "exams_time": "EXAMS TIME",
+  "view_exam_tips": "View exams tips",
+  "start_quiz": "Start Quiz",
+  "solve_assignment": "Solve Assignment"
+}
